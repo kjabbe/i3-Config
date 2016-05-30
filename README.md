@@ -1,2 +1,2 @@
 # i3-Config
-Dotfiles i3 window manager
+My config files for the i3 window manager
